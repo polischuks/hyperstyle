@@ -21,7 +21,7 @@ wps-light==0.16.1
 flake8-broken-line==1.0.0
 flake8-string-format==0.3.0
 flake8-commas==4.0.0
-cohesion==1.0.0
+cohesion==1.1.0
 radon==4.5.0
 
 # extra libraries and frameworks
