@@ -1,7 +1,7 @@
 setuptools==56.0.0
 
 # python code analysis tools
-pylint==3.2.5
+pylint
 pylint-django==2.5.5
 flake8==3.9.0
 
@@ -17,7 +17,7 @@ flake8-return==1.1.2
 flake8-spellcheck==0.24.0
 mccabe==0.6.1
 pep8-naming==0.11.1
-wps-light==0.15.2
+wps-light
 flake8-broken-line==0.3.0
 flake8-string-format==0.3.0
 flake8-commas==2.0.0
